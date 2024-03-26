@@ -1,0 +1,102 @@
+{
+    "data": {
+        "receipts": [
+            {
+                "title": "Transferência",
+                "receiptId": "112312",
+                "name": "Débora dos Santos",
+                "receiverName": "João da Silva",
+                "amount": "R$ 5.000,00",
+                "control": "HDUS36217367127DS",
+                "date": "qua, 27 de abril de 2022"
+            },
+            {
+                "title": "Transferência",
+                "receiptId": "4321",
+                "name": "Débora dos Santos",
+                "receiverName": "Maria do Bairro",
+                "amount": "R$ 100,00",
+                "control": "HOGD32137821378",
+                "date": "qua, 28 de abril de 2022"
+            },
+            {
+                "title": "Transferência",
+                "receiptId": "552341",
+                "name": "Débora dos Santos",
+                "receiverName": "Maria do Bairro",
+                "amount": "R$ 200,00",
+                "control": "ITOEWRNCV321424",
+                "date": "qua, 28 de abril de 2022"
+            },
+            {
+                "title": "Transferência",
+                "receiptId": "112312",
+                "name": "Débora dos Santos",
+                "receiverName": "João da Silva",
+                "amount": "R$ 1.000,00",
+                "control": "FKDJVIDJIFJ123124",
+                "date": "qua, 1 de maio de 2022"
+            },
+            {
+                "title": "Transferência",
+                "receiptId": "4321",
+                "name": "Débora dos Santos",
+                "receiverName": "Helena Torres",
+                "amount": "R$ 100,00",
+                "control": "DSJDISA321412413",
+                "date": "qua, 1 de maio de 2022"
+            },
+            {
+                "title": "Transferência",
+                "receiptId": "552341",
+                "name": "Débora dos Santos",
+                "receiverName": "Maria do Bairro",
+                "amount": "R$ 200,00",
+                "control": "4532431ASJIDASHJDH",
+                "date": "qua, 5 de maio de 2022"
+            },
+            {
+                "title": "Transferência",
+                "receiptId": "112312",
+                "name": "Débora dos Santos",
+                "receiverName": "João da Silva",
+                "amount": "R$ 100,00",
+                "control": "124ADHH44124ASFJ",
+                "date": "qua, 15 de maio de 2022"
+            },
+            {
+                "title": "Transferência",
+                "receiptId": "4321",
+                "name": "Débora dos Santos",
+                "receiverName": "Maria do Bairro",
+                "amount": "R$ 1200,00",
+                "control": "ASDIGE12321321",
+                "date": "qua, 16 de maio de 2022"
+            },
+            {
+                "title": "Transferência",
+                "receiptId": "552341",
+                "name": "Débora dos Santos",
+                "receiverName": "Ana Paula Oliveira",
+                "amount": "R$ 2100,00",
+                "control": "FHEIFHWQUHRQ1231",
+                "date": "qua, 19 de maio de 2022"
+            },
+            {
+                "title": "Pagamento de boleto",
+                "receiptId": "552341",
+                "name": "Débora dos Santos",
+                "receiverName": "Eletricidade",
+                "amount": "R$ 200,00",
+                "control": "DSAHDUSAHUD1231232",
+                "date": "qua, 29 de maio de 2022"
+            }
+        ],
+        "pagination": {
+            "page": 1,
+            "pageSize": 10,
+            "totalElements": 10,
+            "totalPages": 1
+        }
+    }
+}
