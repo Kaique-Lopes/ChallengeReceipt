@@ -12,7 +12,7 @@ class ReceiptListViewController: UIViewController {
     // MARK: - Properties
     
     private var viewModel: ReceiptListViewModel!
-    private let tableView = UITableView()
+    private let tableView = UITableView() //table
     
     // MARK: - View Lifecycle
     

@@ -11,7 +11,7 @@ class ReceiptTableViewCell: UITableViewCell {
     
     // MARK: - Properties
     
-    private let titleLabel = UILabel()
+    private let titleLabel = UILabel() //labeltitulo
     private let receiverNameLabel = UILabel()
     private let amountLabel = UILabel()
     private let dateLabel = UILabel()
